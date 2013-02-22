@@ -42,7 +42,7 @@ write testable code and think about how your functions will be used.
 
 ## How To Play
 
-Fork this repository and [send us an email](mailto://tech@startupweekend.org) asking for instructions
+Fork this repository and [send us an email](mailto:tech@startupweekend.org) asking for instructions
 on using our API.
 
 When you are finished, you can submit a Pull Request and we will review what you have done.
